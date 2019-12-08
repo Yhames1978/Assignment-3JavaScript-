@@ -1,0 +1,44 @@
+{
+  "storeName" : "Weird Shop Top Five Deals",
+  "location" : "New York, New York",
+  "established" : 2016,
+  "active" : true,
+  "topProducts" : [
+    {
+      "name" : "Baby Mop",
+      "price" : "$30.99",
+      "type" : "Mop",
+      "description" : "This comfortable onesie gives your little one extra support and padding when crawling aroud, and the added bonus of having them clean your house at the same time",
+      "image": "baby-mop.jpg"
+    },
+    {
+      "name" : "Cat Carrier Dress",
+      "price" : "$29.99",
+      "type" : "Clothing",
+      "description" : "Women Pet Carrier Sweater Puppy Kitten Pouch Hoodies Long Sleeve Plus Size Dress ",
+      "image": "cat-carrier-dress.jpeg"
+    },
+    {
+      "name" : "Squirrel Hands",
+      "price" : "$14.99",
+      "type" : "Toy",
+      "description" : "A set of 5 finger puppets that transforms hand into a squirrel",
+      "image": "hand-squirrel.jpg"
+    },
+    {
+      "name" : "Senior Wall Decal",
+      "price" : "$49.99",
+      "type" : "Decorative",
+      "description" : "Wall Decal of your favorite seniorsr ",
+      "image": "seniors-wall-decal.jpg"
+    },
+    {
+      "name" : "Inflatable Unicorn Horn for Cats",
+      "price" : "$4.99",
+      "type" : "Novelty",
+      "description" : "A inflatable unicorn horn for cats that can make any cat extra extraordinary",
+      "image": "inflatable-cat-horn.jpg"
+    }
+
+  ]
+}
